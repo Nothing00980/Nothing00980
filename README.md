@@ -1,16 +1,17 @@
-### Hi there 👋
+###Hi there, I'm Yuvraj! 👋
+I'm a content creator from Rajasthan, India, specializing in design, game development, web development, and app development. I have a passion for exploring new programming languages and development platforms to create innovative projects. Currently, I'm working on Unity and hoping to create something exciting and engaging for gamers.
 
-<!--
-**Nothing00980/Nothing00980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My Skill Set
+Programming Languages: C#, JavaScript, HTML, CSS, SQL
+Design Tools: Adobe Photoshop, Illustrator, Figma, Sketch
+Development Platforms: Unity, React, Node.js, Express.js, MongoDB
+🎮 Unity Projects
+I'm always looking for exciting opportunities to collaborate with other developers on Unity projects. If you're working on a project and think I might be a good fit, feel free to reach out! I'm open to collaboration, and I believe that working with others is the key to creating something truly amazing.
 
-Here are some ideas to get you started:
+📫 Let's Connect!
+If you'd like to get in touch, you can reach me through the following channels:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn
+Email
+Twitter
+Thanks for taking the time to learn a bit about me. I'm excited to connect with you and collaborate on future projects!
