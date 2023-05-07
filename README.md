@@ -1,5 +1,7 @@
-###Hi there, I'm Yuvraj! 👋
+### Hi there, I'm Yuvraj! 👋
 I'm a content creator from Rajasthan, India, specializing in design, game development, web development, and app development. I have a passion for exploring new programming languages and development platforms to create innovative projects. Currently, I'm working on Unity and hoping to create something exciting and engaging for gamers.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nothing00980)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 My Skill Set
 Programming Languages: C#, JavaScript, HTML, CSS, SQL
