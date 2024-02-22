@@ -1,0 +1,295 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+
+
+  /* Add your own styles here */
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  #floatfan{
+    position: fixed;
+    /* position: -webkit-sticky; */
+    /* position: sticky; */
+    height: 100vh;
+    top: 0;
+    width: 100%;
+    background-color: #333;
+    /* color: white; */
+    /* padding: 10px 0; */
+    /* text-align: center; */
+    z-index: 0;
+    /* color: #f2f2f2; */
+
+  }
+
+  #floatfan header {
+    padding: 10px 0;
+  }
+
+
+  #floatfan nav ul {
+    display: flex;
+    justify-content: center;
+
+  }
+
+  #floatfan nav ul li {
+    margin: 0 30px;
+    list-style: none;
+    padding: 0px 20px;
+  }
+  #floatfan nav ul li a{
+      text-decoration: none;
+      color: #f7f7f7;
+      /* color: #f74c02; */
+
+  }
+  #floatfan nav ul li a:hover{
+      text-decoration: none;
+      color: #f74c02;
+  }
+
+  .parallax {
+    height: 100vh;
+    /* background-image: url(''); Replace with your background image */
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+
+  .parallax-inner {
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+  }
+  .parallax img{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .parallax h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+  }
+
+  .parallax p {
+    font-size: 1.5em;
+  }
+
+ 
+
+
+
+
+
+
+
+  /* todo ...............................about section */
+
+.section{
+  background-color: #f2f2f2;
+  position: relative;
+  height: 120vh; /* Full viewport height */
+  /* box-sizing: border-box; */
+
+  transition: top 1s; /* Smooth transition */
+  /* z-index: 1; */
+
+}
+
+  #about{
+    top: 100vh;
+    height: 110vh;
+    display: flex;
+    gap: 10px;
+
+
+  }
+  .image-container{
+    align-self: flex-start;
+    flex-basis: 30%;
+    flex-direction: column;
+    padding-top: 18%;
+    padding-right: 5%;
+    margin: 0px 0;
+    padding-left: 5%;
+  }
+  #about img{
+   
+    width: 75%;
+    height: 75%;
+ 
+  }
+  .text-container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 1%;
+  margin-top: 18%;
+  flex-basis: 60%;
+  margin-right: 5%;
+  margin-bottom: auto;
+    flex-basis: 60%;
+    flex-direction: column;
+    border: 2px solid grey;
+    border-radius:5px;
+}
+
+.text-container h2 {
+font-size: 24px; /* Adjust the font size as needed */
+margin: 0; /* Remove default margin */
+}
+
+.text-container p {
+
+padding-top: 10px;
+font-size: 20px; /* Adjust the font size as needed */
+margin: 0; /* Remove default margin */
+}
+
+  /* Define your sections' styles */
+  section {
+    padding: 0px 0;
+    text-align: center;
+  }
+  /* todo project section...................................................................../ */
+
+#projects{
+height: 100%;
+}
+
+  .project-grid {
+    margin-top: 10%;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Adjust column width as needed */
+gap: 20px; /* Adjust the gap between project cards */
+}
+.project-card {
+width: 300px; /* Adjust the width as needed */
+height: 100%; /* Creates a square shape */
+border: 1px solid #ccc;
+border-radius: 8px;
+overflow: hidden; /* Hide overflow if image is larger than the card */
+}
+
+.project-card img {
+width: 100%;
+height: 50%; /* Set the image height as desired */
+object-fit: cover; /* Maintain aspect ratio and cover the space */
+}
+.project-details {
+padding: 10px;
+}
+
+.project-details h3 {
+font-size: 18px;
+margin: 10px 0;
+}
+
+.project-details p {
+font-size: 14px;
+margin: 5px 0;
+}
+
+.project-details a {
+display: inline-block;
+padding: 5px 10px;
+background-color: #007bff;
+color: #fff;
+text-decoration: none;
+border-radius: 4px;
+transition: background-color 0.3s;
+}
+
+.project-details a:hover {
+background-color: #0056b3;
+}
+
+  .project {
+    /* background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out; */
+  }
+
+  .project:hover {
+    /* transform: scale(1.03);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2); */
+  }
+
+  .image-slider {
+    display: flex;
+    overflow: hidden;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .image-slide {
+    flex-shrink: 0;
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+  }
+  /* contact section.................................................... */
+
+  .contact-section {
+    position: relative;
+
+    background-color: #b47a61;
+text-align: center;
+/* padding: 50px; */
+}
+
+.contact-section h2 {
+color: #1a0902;
+font-size: 24px;
+margin-bottom: 20px;
+}
+
+.social-icons {
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+
+.social-icons a {
+display: inline-block;
+width: 40px;
+height: 40px;
+}
+.social-icons p{
+padding-top: 10px;
+}
+
+.social-icons img {
+width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 50%;
+transition: transform 0.3s;
+}
+
+.social-icons a:hover img {
+transform: scale(1.1);
+}
+
+
+  .copyright{
+    background-color: black;
+    position: relative;
+  }
+  .copyright p{
+    text-align: center;
+    color: #f7f7f7;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+  }
