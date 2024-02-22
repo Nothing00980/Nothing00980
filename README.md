@@ -1,5 +1,5 @@
 <!-- ![Solo](https://github.com/Nothing00980/Nothing00980/blob/main/mybackground.png) -->
-<img src = "https://github.com/Nothing00980/Nothing00980/blob/main/mybackground.png" height=500 width = 1200/>
+<img src = "https://github.com/Nothing00980/Nothing00980/blob/main/assets/mybackground.png" height=500 width = 1200/>
 
 
 
