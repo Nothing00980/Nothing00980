@@ -1,13 +1,56 @@
 body, h1, h2, h3, p {
     margin: 0;
     padding: 0;
+    color: #f7f7f7;
+
   }
 
 
   /* Add your own styles here */
   body {
-    font-family: Arial, sans-serif;
+    font-family: "Raleway", sans-serif;
+    transition: .3s all ease;
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
   }
+  body::before{
+    background: rgba(0,0,0,0.5);
+  }
+  .btn {
+    top: 40px;
+    font-size: 11px;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    font-weight: 900; }
+    .btn:active, .btn:focus {
+      outline: none;
+      -webkit-box-shadow: none;
+      box-shadow: none; }
+    .btn.btn-outline-pill.btn-custom-light {
+      color: #fff;
+      border: 2px solid rgba(255, 255, 255, 0.5);
+      -webkit-transition: .3s all ease;
+      -o-transition: .3s all ease;
+      transition: .3s all ease; }
+      .btn.btn-outline-pill.btn-custom-light:hover, .btn.btn-outline-pill.btn-custom-light:active, .btn.btn-outline-pill.btn-custom-light:focus {
+        border-color: #fb8e40; }
+    .btn.btn-bg-white--hover:hover {
+      background-color: #fff;
+      color: #000; }
+
+
+
+
+
+
+
+      /* ------------------ header ------------------------ */
 
   #floatfan{
     position: fixed;
@@ -95,7 +138,9 @@ body, h1, h2, h3, p {
   /* todo ...............................about section */
 
 .section{
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2; */
+  background: rgba(0,0,0,0.99);
+
   position: relative;
   height: 120vh; /* Full viewport height */
   /* box-sizing: border-box; */
@@ -128,6 +173,7 @@ body, h1, h2, h3, p {
     height: 75%;
  
   }
+
   .text-container {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-left: 1%;
@@ -151,6 +197,12 @@ margin: 0; /* Remove default margin */
 padding-top: 10px;
 font-size: 20px; /* Adjust the font size as needed */
 margin: 0; /* Remove default margin */
+}
+
+#btn-container{
+  top: 80%;
+  right: 40%;
+  position: relative;
 }
 
   /* Define your sections' styles */
