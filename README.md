@@ -23,9 +23,12 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-bhati-278833252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajbhati00980@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-171515?style=for-the-badge&logo=github&logoColor=white)](https://nothing00980.github.io/Nothing00980/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuvrraj_bhati001?utm_source=qr&igsh=MWR1bTE0cmYydzV3dg==)
+
+
 
 ---
 
