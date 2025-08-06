@@ -61,7 +61,7 @@
     </td>
 
     <!-- Frameworks & Libraries -->
-    <td>
+ '   <td>
       <img src="https://img.shields.io/badge/Flutter-181818?style=for-the-badge&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-181818?style=for-the-badge&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -76,7 +76,7 @@
     </td>
 
     <!-- Technologies -->
-    <td>
+ .   <td>
       <img src="https://img.shields.io/badge/AR/VR-181818?style=for-the-badge&logoColor=blue"/>
       <img src="https://img.shields.io/badge/Game%20Dev-181818?style=for-the-badge&logo=unity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Mobile%20Dev-181818?style=for-the-badge&logo=android&logoColor=a4c639"/>
@@ -86,14 +86,14 @@
     </td>
 
     <!-- Databases -->
-    <td>
+  .  <td>
       <img src="https://img.shields.io/badge/MySQL-181818?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=4ea94b"/>
       <img src="https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </td>
 
     <!-- Design Tools -->
-    <td>
+.    <td>
       <img src="https://img.shields.io/badge/Illustrator-181818?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
       <img src="https://img.shields.io/badge/InDesign-181818?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
       <img src="https://img.shields.io/badge/Photoshop-181818?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
@@ -102,7 +102,7 @@
     </td>
 
     <!-- Dev Tools -->
-    <td>
+  .  <td>
       <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032"/>
       <img src="https://img.shields.io/badge/VS%20Code-181818?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
       <img src="https://img.shields.io/badge/Android%20Studio-181818?style=for-the-badge&logo=androidstudio&logoColor=3DDC84"/>
