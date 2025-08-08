@@ -8,7 +8,7 @@
 
 🚀 Architecting next-gen AI-driven automation, workflow orchestration, & custom tech solutions across web, app, game, and data.  
 💡 Bridging creativity with scalable engineering, specializing in n8n, AI/ML, and full-stack innovation.
-**📎 Learn more at: [yuvraj.nothing00980.org](https://yuvraj.nothing00980.org)
+- 📎 Learn more at: [yuvraj.nothing00980.org](https://yuvraj.nothing00980.org)
 
 
 ---
